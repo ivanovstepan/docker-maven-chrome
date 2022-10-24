@@ -1,4 +1,4 @@
-FROM maven:3.8.6-eclipse-temurin-17
+FROM gradle:7.5.1-jdk17-alpine
 
 # Google Chrome
 
